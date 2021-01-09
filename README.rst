@@ -1,7 +1,7 @@
 pgbackup
 =======
 
-CLI for backup remote PostegreSQL database either locally or to S2.
+CLI for backup remote PostegreSQL database either locally or to S3.
 
 Preparing the Development
 -------------------------
